@@ -39,7 +39,8 @@ N/A
 
 ## Credits
 
-People who worked on this project were bwater47 Link: <a href="https://github.com/bwater47" alt="GitHub Link">GitHub Profile</a> You can contact the contributors through the github profiles listed.
+People who worked on this project were bwater47. You can contact the contributors through the github profiles links listed here.
+- Link: <a href="https://github.com/bwater47" alt="GitHub Link">GitHub Profile</a>
 
 ## License
 ![Static Badge](https://img.shields.io/badge/MIT-License-Blue)
