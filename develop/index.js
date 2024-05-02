@@ -11,13 +11,13 @@ const questions = [
   },
   {
     type: "list",
-    name: "Font",
+    name: "FontStyle",
     message: "What font do you want the text to be?",
     choices: ["Arial", "Times New Roman", "Courier New"],
   },
   {
     type: "number",
-    name: "Size",
+    name: "FontSize",
     message: "What size do you want the text to be?",
   },
   {
