@@ -2,11 +2,21 @@
 <html>
     <head>
         <title>Logo</title>
+        <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        </style>
     </head>
     <body>
         <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-<circle cx="150" cy="150" r="100" fill="red" />
-<text x="150" y="125" fill="blue" text-anchor="middle">THE</text>
+<polygon points="150,50 100,150 200,150" fill="red" />
+<text x="150" y="125" fill="blue" text-anchor="middle">fjs</text>
 </svg>
     </body>
 </html>
