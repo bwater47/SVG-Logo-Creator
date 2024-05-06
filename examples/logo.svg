@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <head>
         <title>Logo</title>
         <style>
@@ -15,8 +17,8 @@
     </head>
     <body>
         <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-<polygon points="150,50 100,150 200,150" fill="red" />
-<text x="150" y="125" fill="blue" text-anchor="middle">fjs</text>
+<circle cx="150" cy="150" r="100" fill="#f0f0f0" />
+<text x="150" y="125" fill="#333" text-anchor="middle">asd</text>
 </svg>
     </body>
 </html>
