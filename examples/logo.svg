@@ -17,8 +17,8 @@
     </head>
     <body>
         <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-<circle cx="150" cy="150" r="100" fill="#f0f0f0" />
-<text x="150" y="125" fill="#333" text-anchor="middle">asd</text>
+<rect x="50" y="50" width="200" height="200" fill="yellow" />
+<text x="150" y="125" fill="blue" text-anchor="middle">ATF</text>
 </svg>
     </body>
 </html>
