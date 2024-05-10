@@ -26,13 +26,13 @@ You'll need to install GitBash, VS Code, and Node.js. From here you will need kn
 
 Generating a logo.svg file: Use node.js inside of VS Code, and target the index.js file when using the "node path.file" command in the terminal on VS Code. This will prompt you with questions that you will fill out. Once completed you will recieve a message (Generated logo.svg) in the console that tells you where the logo.svg file is that you have generated.
 
-logo.svg sample: 
+<strong>logo.svg sample:</strong>
 
 ![Logo Sample](./examples/logo.svg)
 
-logo.svg generation video: [Svg Generator Test](https://drive.google.com/file/d/1vQJ3SwLcU_JyM_vKCeGJXu1DwW9msrb4/view?usp=sharing)
+<strong>logo.svg generation video -</strong> [Svg Generator Test](https://drive.google.com/file/d/1vQJ3SwLcU_JyM_vKCeGJXu1DwW9msrb4/view?usp=sharing)
 
-logo.svg screenshots:
+<strong>logo.svg screenshots:</strong>
 
 ![Triangle](./examples/Triangle.png)
 ![Circle](./examples/Circle.png)
